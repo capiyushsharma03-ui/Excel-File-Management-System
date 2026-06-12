@@ -44,4 +44,5 @@ The system automatically tracks:
 ## Author
 
 Piyush Sharma
-CA Final Student | Finance | Excel VBA | Automation | AI for Finance
+
+CA Final Student | Finance | Excel VBA | Automation 
